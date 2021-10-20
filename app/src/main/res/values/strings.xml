@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Practice25</string>
+    <string name="tvResult">Result</string>
+    <string name="btnDiv">/</string>
+    <string name="btnMult">*</string>
+    <string name="btnAdd">+</string>
+    <string name="btnSub">-</string>
+    <string name="etN1"></string>
+    <string name="etN2"></string>
+    <string name="Point">.</string>
+    <string name="four">4</string>
+    <string name="Three">3</string>
+    <string name="Two">2</string>
+    <string name="Zero">0</string>
+    <string name="One">1</string>
+    <string name="Five">5</string>
+    <string name="Six">6</string>
+    <string name="Seven">7</string>
+    <string name="Eight">8</string>
+    <string name="Nine">9</string>
+    <string name="Percent">%</string>
+    <string name="Reuslt">=</string>
+    <string name="ac">AC</string>
+    <string name="ce">CE</string>
+</resources>
